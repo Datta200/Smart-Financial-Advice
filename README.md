@@ -96,4 +96,3 @@ Run the app locally using:
 streamlit run app.py
 ```
 
----
