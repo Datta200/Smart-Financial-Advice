@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your GitHub repository:
-
----
 
 # 💼 Smart Financial Advice
 
@@ -37,6 +34,12 @@ pip install streamlit numpy scikit-learn matplotlib
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## 🌐 Live Demo
+Access the app online at:  
+[Smart Financial Advice](https://finance-bzqwojndskvzwu585feyw2.streamlit.app)
 
 ---
 
@@ -95,4 +98,3 @@ Run the app locally using:
 ```bash
 streamlit run app.py
 ```
-
