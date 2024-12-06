@@ -34,7 +34,7 @@ def calculate_tax(salary, regime="new"):
         if salary <= 300000:
             tax = 0
         elif salary <= 700000:
-            tax = 0.05 * (salary - 700001)
+            tax = 0.5 * (salary - 700001)
         elif salary <= 1000000:
             tax = 0.10 * (salary - 1000001)
         else:
